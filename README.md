@@ -14,6 +14,13 @@
         }
         a {
             color:orange;
+            font-family: 'Updock', cursive;
+        }
+        p {
+        font-family: 'Berkshire Swash', cursive;
+        }
+        h3 {
+        font-family: 'Clicker Script', cursive;
         }
         </style>
     </head>
@@ -26,8 +33,8 @@
     <h3>Likes: Bunnies, Reading, Cuteness, Kittens, Coding/Gaming.</h3>
     <h3>Dislikes: Being Grounded, Killing/Eating Bunnies, Scary Things.</h3>
     <ul>
-        <li><a href="">Home Page</a></li>
-        <li><a href="">Me, Alora</a></li>
+        <li><a href="https://starmeows20.github.io/My-Family/">Home Page</a></li>
+        <li><a href="https://starmeows20.github.io/Me-Alora/">Me, Alora</a></li>
         <li><a href="">Cadie</a></li>
         <li><a href="">William</a></li>
         <li><a href="">Deshawn</a></li>
