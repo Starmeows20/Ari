@@ -4,8 +4,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Clicker+Script&family=Dancing+Script&family=Great+Vibes&family=Pacifico&family=Sacramento&family=Tangerine&family=Updock&display=swap" rel="stylesheet">
-        <meta charset="utf-8">
-        <title>Ari</title>
+        <meta charset="utf-8"> 
         <style>
              body {
                 background:magenta;
@@ -21,6 +20,9 @@
         }
         h3 {
         font-family: 'Clicker Script', cursive;
+        }
+        h1 {
+        font-family: 'Dancing Script', cursive;
         }
         </style>
     </head>
